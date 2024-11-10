@@ -2,4 +2,5 @@
 ### ToDo
 - [x] test remote origin and push my first commit
 - [x] add .gitignore
-- [ ] etc...
+- [x] start django project with git
+- [ ] 
